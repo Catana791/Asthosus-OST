@@ -24,3 +24,4 @@ Music Creator: ThePythonGuy
 Mod Author: Catser
 '''
 dependencies: [asthosus]
+minGameVersion: 136
